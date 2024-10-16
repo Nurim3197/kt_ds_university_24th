@@ -1,4 +1,4 @@
-[가이드 투어목록](192.168.211.16:8080/mate/guide/tourlist)
+[가이드 투어목록](https://192.168.211.16:8080/mate/guide/tourlist/)
 </br>
 
 [가이드 투어목록](https://www.naver.com/)
